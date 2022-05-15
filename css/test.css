@@ -1,0 +1,93 @@
+/* content 3 */ 
+.content_34 {
+  position: relative;
+
+    height: 600px;
+    padding: 50px 200px;
+    width: 100%;
+    background: #b90e0e5c;
+    text-align: -webkit-center;
+}
+
+
+.content_34 .content_3_nav{
+    text-align: center;
+    padding-top: 40px;
+    height: 226px;
+    width: 80%;
+    margin-top: 50px;
+    background: #7c1010;
+    border-radius: 15px;
+    z-index: 9999;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    box-shadow: #9ba4a59e 0 0 10px;
+}
+
+.content34_1{
+  position: relative;
+
+}
+
+ .image4{
+  position: absolute;
+  right: 230px;
+  top: 50;
+  z-index: 999999;
+}
+ .image5{
+  position: absolute;
+  left: 235px;
+  bottom: 217px;
+  z-index: 0;
+}
+.image5-1{
+  width: 50px;
+  height: 100px;
+  background:red;
+  position: absolute;
+
+}
+.content_3_nav span{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+}
+.content_3_nav .vl {
+    border: 1px solid #CECADD;
+    height: 50px;
+    left: 50%;
+    margin-left: 69px;
+    margin-right: 32px;
+    top: 0;
+  }
+  .content_3_nav .plus_sign{
+      color: blue;
+  }
+  .content_34 .buttons{
+    padding-top: 39px;
+    
+  }
+  .content_34 .buttons .member,.annees,.projets {
+    color: white;
+    width: 200px;
+    font-weight: 400;
+    font-size: 16.8686px;
+    /* line-height: 20px; */
+    text-align: center;
+    border-radius: 3px;
+    background: #6045BA;
+    /* justify-content: space-between; */
+    margin: 7px;
+  }
+  .content_34 h2{
+    padding-top: 100px;
+      text-align: center;
+  }
+  .content_34 .partners{
+      text-align: center;
+  }
+  .content_34 .partners img{
+    padding-top: 20px;
+    margin-left: 30px;
+  }
